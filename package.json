@@ -1,0 +1,22 @@
+{
+  "name": "verify-env",
+  "version": "0.0.1",
+  "description": "Utility module to verify that all required environment variables are set.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zappan/node-verify-env.git"
+  },
+  "keywords": [
+    "env"
+  ],
+  "author": "Tomislav Capan <tomislav.capan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zappan/node-verify-env/issues"
+  },
+  "homepage": "https://github.com/zappan/node-verify-env#readme"
+}
