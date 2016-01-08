@@ -2,6 +2,14 @@
 
 Small utility module to verify that all required environment variables are set.
 
+
+## How to install
+
+```
+npm install verify-env
+```
+
+
 ## How to use
 
 At your application startup, invoke this module passing it a list of mandatory
